@@ -2,3 +2,4 @@ gittest
 created a branch ly
 reset test
 add commit
+merge
